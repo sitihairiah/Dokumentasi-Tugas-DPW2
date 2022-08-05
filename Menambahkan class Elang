@@ -2,7 +2,7 @@ class Elang{
     public $nama, $jumlah_kaki, $bisa_terbang, $suara;
 }
 $Elang = new Elang;
-$Elang->nama = "Jhon";
+$Elang->nama = "Jamet";
 $Elang->jumlah_kaki = "2";
 $Elang->bisa_terbang = "ya";
 $Elang->suara = "miip";
