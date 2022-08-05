@@ -2,7 +2,7 @@ class kucing{
     public $nama, $jumlah_kaki, $bisa_terbang, $suara;
 }
 $Kucing = new Kucing;
-$Kucing->nama = "Mueza";
+$Kucing->nama = "gembul";
 $Kucing->jumlah_kaki = "4";
 $Kucing->bisa_terbang = "tidak";
 $Kucing->suara = "meoong";
